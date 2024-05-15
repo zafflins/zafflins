@@ -20,11 +20,9 @@ Location: Kansas City, Missouri <br>
 - [Lotus](https://github.com/Zero-th/Lotus) [ 2D Game Engine in Python using OpenGL ]
 - [TERMONOL](https://github.com/Zero-th/TERMONOL) [ Text-Based Adventure Engine ]
 <br>
-<br>
 
 ## Tools I Developed 🛠️
 - [Worldforge2](https://setoyuma.itch.io/worldforge2) [ 2D Map Editor]
-<br>
 <br>
 
 ## Languages and Tools 🧰

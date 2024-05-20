@@ -15,17 +15,17 @@ Location: Kansas City, Missouri <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-th&theme=github_dark)
 
-## Game Engines I Developed ⚙️
-- [Lotus II](https://github.com/Zero-th/Lotus2) [ Robust Game Engine in C using OpenGL with a 2D and 3D runtime following a custom architecture (under active development)]
-- [Lotus](https://github.com/Zero-th/Lotus) [ 2D Game Engine in Python using OpenGL ]
-- [TERMONOL](https://github.com/Zero-th/TERMONOL) [ Text-Based Adventure Engine ]
+## My Engines ⚙️
+- Vira [ Robust Game Engine in C using OpenGL with a 2D and 3D runtime following a custom architecture (under active development)]
+- Vira-lite [ 2D Game Engine in Python using OpenGL ]
+- TERMONOL [ Text-Based Adventure Engine ]
 <br>
 
-## Tools I Developed 🛠️
+## My Tools 🛠️
 - [Worldforge2](https://setoyuma.itch.io/worldforge2) [ 2D Map Editor]
 <br>
 
-## Languages and Tools 🧰
+## Languages 🧰
 <table>
   <tr>
     <td align="center" width="96">

@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Izaiyah.
 
 Phone: 908-405-1600 <br>
-Email: Zeroth.dev@gmail.com <br>
+Email: zeroth.bat@gmail.com <br>
 Location: Kansas City, Missouri <br>
 
 ## Interests 🧠

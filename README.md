@@ -15,10 +15,9 @@ Location: Kansas City, Missouri <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-th&theme=github_dark)
 
-## My Engines ⚙️
-- Helix [ Robust Game Engine in C using OpenGL with a 2D and 3D runtime following a custom architecture (under active development)]
-- Helix-One [ 2D Game Engine in Python using SDL2 + OpenGL ]
-- TERMONOL [ Text-Based Adventure Engine ]
+## My Applications ⚙️
+- Helix [ Voxel Based Game Engine in python using OpenGL with a 2D and 3D runtime ]
+- TERMONOL [ Commandline Chat ]
 <br>
 
 ## My Tools 🛠️

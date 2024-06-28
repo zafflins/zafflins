@@ -15,11 +15,6 @@ Location: Kansas City, Missouri <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-th&theme=github_dark)
 
-## My Applications ⚙️
-- Helix [ Voxel Based Game Engine in python using OpenGL with a 2D and 3D runtime ]
-- TERMONOL [ Commandline Chat ]
-<br>
-
 ## My Tools 🛠️
 - [Worldforge2](https://setoyuma.itch.io/worldforge2) [2D Map Editor]
 - [Swarm ECS](https://github.com/Zero-th/Swarm) [Flexible Light-Weight ECS Implemented In Python]

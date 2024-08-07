@@ -7,9 +7,9 @@ Location: Kansas City, Missouri <br>
 ## Interests 🧠
  <img align="right" alt="GIF" src="assets/coding.gif" width="386" height="240" style="border:5px solid black"/>
 
-- Low-Level Development
-- Game Engine Development
-- Front-End Web-Development
+- Full-Stack Web-Development
+- Data security
+- Tailwind
 <br>
 <br>
 

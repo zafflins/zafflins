@@ -1,4 +1,4 @@
-### Hello, im Izayah.
+### Hello, im Izaiyah.
 
 Phone: 908-405-1600 <br>
 Email: zeroth.bat@gmail.com <br>

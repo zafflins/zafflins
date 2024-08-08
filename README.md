@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Izaiyah.
+### Hello, im Izayah.
 
 Phone: 908-405-1600 <br>
 Email: zeroth.bat@gmail.com <br>
 Location: Kansas City, Missouri <br>
 
-## Interests 🧠
+## Interests
  <img align="right" alt="GIF" src="assets/coding.gif" width="386" height="240" style="border:5px solid black"/>
 
 - Full-Stack Web-Development
@@ -15,29 +15,25 @@ Location: Kansas City, Missouri <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafflin&theme=github_dark)
 
-## My Tools 🛠️
+## My Projects
 - [Worldforge2](https://setoyuma.itch.io/worldforge2) [2D Map Editor]
-- [Swarm ECS](https://github.com/Zero-th/Swarm) [Flexible Light-Weight ECS Implemented In Python]
+- [Swarm ECS](https://github.com/zafflin/Swarm) [Flexible Light-Weight ECS Implemented In Python]
+- [SoGL](https://github.com/zafflin/SoGL) [A Simple Abstraction Layer over the OpenGL Spec] (in development)
 <br>
 
-## Languages 🧰
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="assets/c.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    <td align="center" width="96">
-      <a href="https://www.python.org">
-        <img src="assets/python.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    <td align="center" width="96">
-      <a href="https://code.visualstudio.com" >
-        <img src="assets/visualstudiocode.svg" width="48" height="48" alt="Visual Stuido Code" />
-      </a>
-      <br>Visual Studio Code
-    </td>
-  </tr>
-</table>
+## Languages
+![image](https://github.com/user-attachments/assets/82526d14-ba4c-4c8c-9081-06c8af1a5fdb)
+![image](https://github.com/user-attachments/assets/283770d4-04a4-4abc-b496-0e1bb5189417)
+![image](https://github.com/user-attachments/assets/ded95799-d60d-481a-9607-90e9c8ab29d7)
+![image](https://github.com/user-attachments/assets/0448de9c-ffe0-442a-860f-42cf8113cf87)
+![image](https://github.com/user-attachments/assets/433ae81a-5cfc-42f0-8b32-93fc4475ab82)
+![image](https://github.com/user-attachments/assets/df1ff080-1eec-454b-8026-108923746075)
+
+
+
+## Tooling
+![image](https://github.com/user-attachments/assets/35e7f0b6-4b02-4ce4-9584-b2f24c9f624c)
+![image](https://github.com/user-attachments/assets/3bde7af6-dec0-448c-addb-badeb10a8b17)
+![image](https://github.com/user-attachments/assets/2ada4f11-0fc3-4432-8203-09cb05d55d73)
+![image](https://github.com/user-attachments/assets/a5620563-141f-4251-9126-84efc82b8e17)
+![image](https://github.com/user-attachments/assets/4b7c0db7-67f4-4d6a-a839-c5dfb44313ec)

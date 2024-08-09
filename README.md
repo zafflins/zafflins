@@ -12,13 +12,13 @@ Location: Kansas City, Missouri <br>
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafflin&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stozak&theme=github_dark)
 
 ## My Projects
 - [Worldforge2](https://setoyuma.itch.io/worldforge2) [2D Map Editor]
-- [Swarm ECS](https://github.com/zafflin/Swarm) [Flexible Light-Weight ECS Implemented In Python]
-- [SoGL](https://github.com/zafflin/SoGL) [A Simple Abstraction Layer over the OpenGL Spec] (in development)
-- [zenchan](https://github.com/zafflin/zenchan) [A Minimalist Blog.] (in development)
+- [Swarm ECS](https://github.com/stozak/Swarm) [Flexible Light-Weight ECS Implemented In Python]
+- [SoGL](https://github.com/stozak/SoGL) [A Simple Abstraction Layer over the OpenGL Spec] (in development)
+- [zenchan](https://github.com/stozak/zenchan) [A Minimalist Blog.] (in development)
 <br>
 
 ## Languages

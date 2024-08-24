@@ -2,7 +2,7 @@
 
 Phone: 908-405-1600 <br>
 Email: zeroth.bat@gmail.com <br>
-Location: Kansas City, Missouri <br>
+Location: Union County, New Jersey <br>
 
 ## Interests
 - Full-Stack Web-Development

@@ -5,9 +5,9 @@ Email: zeroth.bat@gmail.com <br>
 Location: Union County, New Jersey <br>
 
 ## Interests
-- Full-Stack Web-Development
-- Data security
-- Tailwind
+- Cloud Security
+- Game Development
+- Database Management
 <br>
 <br>
 

@@ -11,7 +11,7 @@ Location: Union County, New Jersey <br>
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stozak&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F4R4W4Y&theme=github_dark)
 
 ## Languages
 ![image](https://github.com/user-attachments/assets/82526d14-ba4c-4c8c-9081-06c8af1a5fdb)

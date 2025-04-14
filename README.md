@@ -16,7 +16,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=go,ts,htmx,css,sqlite,gi," alt="Web Stack"/>
 
 ### What I'm Working On
-### [Libx](https://github.com/d34d0s/libx) | [R3host](https://github.com/r3shape/r3host) | [R3make](https://github.com/r3shape/r3make) | [R3engine](https://github.com/r3shape/r3engine)
+### [Corex](https://github.com/r3shape/corex) | [R3host](https://github.com/r3shape/r3host) | [R3make](https://github.com/r3shape/r3make) | [Koncept](https://github.com/r3shape/koncept)
 
 ### Contact Me
 ### [Email](d34d0s.dev@gmail.com) | [Discord](@d34d0s) | [X](https://x.com/d34d0s)

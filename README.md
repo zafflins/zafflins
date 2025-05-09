@@ -19,8 +19,8 @@
 ### [Swarm](https://github.com/r3shape/swarm) | [SSDK](https://github.com/r3shape/SSDK) | [R3make](https://github.com/r3shape/r3make) | [Blakbox](http://github.com/r3shape/blakbox) | [R3host](https://github.com/r3shape/r3host)
 
 ### Essays
-### **[Elegant Design: Dispatch Tables in C](ed-dispatch-tables.md)**  
-### **[Elegant Design: Tagged Unions In C](ed-tagged-unions.md)**  
+### **[Elegant Design: Dispatch Tables in C](https://github.com/r3shape/essays/blob/main/ed-dispatch-tables.md)**  
+### **[Elegant Design: Tagged Unions In C](https://github.com/r3shape/essays/blob/main/ed-tagged-unions.md)**  
 
 ### Contact Me
 ### [Email](d34d0s.dev@gmail.com) | [Discord](@d34d0s) | [X](https://x.com/d34d0s)

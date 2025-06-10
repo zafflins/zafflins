@@ -16,7 +16,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=go,ts,htmx,css,sqlite,gi," alt="Web Stack"/>
 
 ### What I'm Working On
-### [Swarm](https://github.com/r3shape/swarm) | [SSDK](https://github.com/r3shape/SSDK) | [R3make](https://github.com/r3shape/r3make) | [Blakbox](http://github.com/r3shape/blakbox) | [R3host](https://github.com/r3shape/r3host)
+### [SSDK](https://github.com/r3shape/SSDK) | [R3make](https://github.com/r3shape/r3make) | [Blakbox](http://github.com/r3shape/blakbox) | [WorldForge](https://github.com/d34d0s/worldforge) | [Luna](https://github.com/r3shape/luna)  
 
 ### Essays
 ### **[Elegant Design: Dispatch Tables in C](https://github.com/r3shape/essays/blob/main/ed-dispatch-tables.md)**  

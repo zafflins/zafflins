@@ -6,7 +6,7 @@
 <h4>Toolbelt</h4>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=c,python,js,ts,html,css,go" alt="App Stack"/>
  <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,git,react,htmx,express,ejs,nodejs,django" alt="App Stack"/>  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,git,htmx,express,ejs,nodejs,django" alt="App Stack"/>  
  
 ### What I'm Working On
 #### <a href="http://github.com/r3shape"> <img src="assets/r3-sticker.png"></img> </a>  

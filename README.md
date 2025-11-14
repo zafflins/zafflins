@@ -1,3 +1,5 @@
+<hr>
+
  <h3 align="center">
   Hello, World.
 </h3>
@@ -10,14 +12,17 @@
  
 ### What I'm Working On
 #### <a href="http://github.com/r3shape"> <img src="assets/r3-sticker.png"></img> </a>  
-##### [r3make](https://github.com/r3shape/r3make) | [r3kit](https://github.com/r3shape/r3kit)  
-##### [libECX](http://github.com/r3shape/libECX) | [uniform](https://github.com/r3shape/uniform)  
-##### [nanoserve](http://github.com/zafflins/nanoserve) | [miniform](http://github.com/r3shape/miniform)  
+##### [r3make](https://github.com/r3shape/r3make)  
+##### [libR3](https://github.com/r3shape/libR3) | [libECX](http://github.com/r3shape/libECX)  
+####  [uniform](https://github.com/r3shape/uniform)  
+##### [nanoserve](http://github.com/zafflins/nanoserve)  
 
 ### Essays
 #### **[Elegant Design: Dispatch Tables in C](https://github.com/zafflins/essays/blob/main/ed-dispatch-tables.md)**  
 #### **[Elegant Design: Tagged Unions In C](https://github.com/zafflins/essays/blob/main/ed-tagged-unions.md)**  
 
 ### Contact Me
-#### [Email](zafflins@gmail.com) | [Discord](@d34d0s)
+#### [Email](zafflins@gmail.com) | [Discord](@zafflins)
 </div>
+
+<hr>

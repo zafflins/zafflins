@@ -14,7 +14,7 @@
 ####  [uniform](https://github.com/r3shape/uniform)  
 ##### [nanoserve](http://github.com/zafflins/nanoserve)  
 
-### Essays
+### Articles
 #### **[Elegant Design: Dispatch Tables in C](https://github.com/zafflins/essays/blob/main/ed-dispatch-tables.md)**  
 #### **[Elegant Design: Tagged Unions In C](https://github.com/zafflins/essays/blob/main/ed-tagged-unions.md)**  
 

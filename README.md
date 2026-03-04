@@ -3,9 +3,9 @@
 </p>
 
 <div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=c,python,js,ts,html,css,go" alt="App Stack"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=c,python,js,ts,html,css" alt="Langs"/>
  <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,git,htmx,express,ejs,nodejs,django" alt="App Stack"/>  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,git,htmx,express,ejs,nodejs" alt="Libs"/>  
  
 ### What I'm Working On
 #### <a href="http://github.com/r3shape"> <img src="assets/r3-sticker.png"></img> </a>  
